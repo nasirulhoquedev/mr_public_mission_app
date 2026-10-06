@@ -1,0 +1,6 @@
+{
+  "name": "M.R. PUBLIC MISSION",
+  "description": "Official school management & communication hub for M.R. PUBLIC MISSION (Classes 0-VI). Features smart attendance, homework dispatch, classroom activity feed, result cards, Headmaster mass broadcast, school pulse dashboard, and principal help desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

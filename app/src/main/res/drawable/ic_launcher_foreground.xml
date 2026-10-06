@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Mortarboard -->
+    <path
+        android:fillColor="#ECC94B"
+        android:pathData="M54,28 L30,39 L54,50 L78,39 Z" />
+    <path
+        android:fillColor="#D69E2E"
+        android:pathData="M54,50 L78,39 L78,43 L54,54 L30,43 L30,39 Z" />
+    <!-- Tassel -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:pathData="M68,44 L70,55" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,55 L68,60 L72,60 Z" />
+    <!-- Center Graduation Cap Skull Cap -->
+    <path
+        android:fillColor="#D69E2E"
+        android:pathData="M39,44 Q54,53 69,44 L69,47 C69,55 39,55 39,47 Z" />
+
+    <!-- Open Knowledge Book -->
+    <!-- Left page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,56 C45,53 38,54 32,57 L32,73 C38,70 45,69 52,72 Z" />
+    <!-- Right page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,56 C63,53 70,54 76,57 L76,73 C70,70 63,69 56,72 Z" />
+    <!-- Book Spine -->
+    <path
+        android:fillColor="#ECC94B"
+        android:pathData="M52.5,56 L55.5,56 L55.5,73 L52.5,73 Z" />
+    <!-- Book Lines left -->
+    <path
+        android:strokeColor="#CBD5E0"
+        android:strokeWidth="1.2"
+        android:pathData="M36,62 L48,60 M36,66 L48,64" />
+    <!-- Book Lines right -->
+    <path
+        android:strokeColor="#CBD5E0"
+        android:strokeWidth="1.2"
+        android:pathData="M60,60 L72,62 M60,64 L72,66" />
+
+    <!-- School Laurel / Star of Excellence at bottom -->
+    <path
+        android:fillColor="#ECC94B"
+        android:pathData="M54,76 L55.8,79.8 L60,80.4 L57,83.3 L57.7,87.5 L54,85.5 L50.3,87.5 L51,83.3 L48,80.4 L52.2,79.8 Z" />
+</vector>
